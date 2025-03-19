@@ -1,0 +1,9 @@
+[submodule "PIDR-2025-MetaQuest-Scripts"]
+	path = PIDR-2025-MetaQuest-Scripts
+	url = https://github.com/horus-4ever/PIDR-2025-MetaQuest-Scripts.git
+[submodule "PIDR-2025-MetaQuest-ESP32"]
+	path = PIDR-2025-MetaQuest-ESP32
+	url = https://github.com/horus-4ever/PIDR-2025-MetaQuest-ESP32.git
+[submodule "PIDR-2025-MetaQuest-Unity"]
+	path = PIDR-2025-MetaQuest-Unity
+	url = https://github.com/horus-4ever/PIDR-2025-MetaQuest-Unity.git
